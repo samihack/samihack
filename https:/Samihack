@@ -1,0 +1,7 @@
+apt update
+apt upgrade
+pkg insall git
+pkg install python
+pkg install python2
+git clone https://github/samihack
+python2 samihack.py
